@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+    <title>program 02</title>
+
+    <style>
+        h1 {
+            color: red;
+        }
+    </style>
+</head>
+
+<body>
+    <p align="center">Name : CODER<br>Age : 18</p>
+    <p align="right">Address : IIMT, Karkarduma<br>Phone : 867462XXXX</p>
+    <p align="left">Class : 1st Sem.</p>
+
+    <h1 align="center">Nimish</h1>
+</body>
+</html>
