@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>psed classes</title>
+
+    <style>
+        #para1 {
+            color: red;
+        }
+
+        #para1:hover {
+            color: red;
+            border: 3px solid green;
+            border-style: outset;
+        }
+
+        .para2 {
+            color: green;
+        }
+    </style>
+</head>
+
+<body>
+    <p id="para1">Hello world</p>
+</body>
+</html>
