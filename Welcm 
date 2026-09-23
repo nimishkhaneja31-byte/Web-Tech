@@ -1,0 +1,18 @@
+<!doctype>
+<html>
+<head>
+<title>document</title>
+<style>
+p {
+    padding:70px;
+    border:20px solid orange;
+    margin:100px;
+    width:150px;
+  }
+ </style>
+</head>
+<body>
+<h1>hello</h1>
+<p>WELCOME TO MY WEBPAGE</p>
+</body>
+</html>
